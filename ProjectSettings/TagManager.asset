@@ -41,3 +41,15 @@ TagManager:
     userID: 0
     uniqueID: 0
     locked: 0
+  - name: Background
+    userID: 1
+    uniqueID: 3648361413
+    locked: 0
+  - name: Avatars
+    userID: 2
+    uniqueID: 2458620009
+    locked: 0
+  - name: Lines
+    userID: 3
+    uniqueID: 608111793
+    locked: 0
