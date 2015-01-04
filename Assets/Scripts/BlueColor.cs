@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEditor;
+using UnityEngine.UI;
 
 public class BlueColor : MonoBehaviour {
 
@@ -10,6 +12,6 @@ public class BlueColor : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+
 	}
 }
