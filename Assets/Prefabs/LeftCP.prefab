@@ -10,7 +10,7 @@ GameObject:
   - 4: {fileID: 449042}
   - 212: {fileID: 21249042}
   - 58: {fileID: 5849042}
-  - 114: {fileID: 11449042}
+  - 114: {fileID: 11433250}
   m_Layer: 0
   m_Name: LeftCP
   m_TagString: Untagged
@@ -25,7 +25,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 149042}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.20000005, y: 2.19000006, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -41,7 +41,7 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_Radius: .474999994
   m_Center: {x: 0, y: 0}
---- !u!114 &11449042
+--- !u!114 &11433250
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -49,7 +49,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 149042}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d578787779c5104fa3773669e38b671, type: 3}
+  m_Script: {fileID: 11500000, guid: 54fa539ac1596094fb112ce33a87d770, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   trajectory: TrajectoryLeft
