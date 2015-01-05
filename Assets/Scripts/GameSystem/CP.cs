@@ -14,8 +14,7 @@ public class CP : MonoBehaviour
 		// Use this for initialization
 		void Start ()
 		{
-				// Set the disabled sprite by default, except if it's an enabled checkpoint
-				renderer.GetComponent<SpriteRenderer> ().sprite = tag.Equals ("Enabled") ? Enabled : Disabled;
+
 		}
 	
 		// Update is called once per frame
